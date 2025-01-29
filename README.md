@@ -45,5 +45,4 @@ This study identified **XGBoost** as the best-performing model for EEG classific
 1. Kaya, M., et al. (2018). A large electroencephalographic motor imagery dataset for EEG-BCIs. [Figshare](https://doi.org/10.6084/m9.figshare.c.3917698.v1).
 2. Chawla, N. V., et al. (2002). SMOTE: Synthetic Minority Over-sampling Technique. *Journal of Artificial Intelligence Research*, 16, 321-357.
 
-For complete code and reproducibility, check out the [Google Colab Notebook](https://colab.research.google.com/drive/1CceFlrpa3g_WfOeC6BNE9y-sn7cw1T1v?usp=sharing).
 
