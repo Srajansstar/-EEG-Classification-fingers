@@ -1,1 +1,1 @@
-# -EEG-Classification-fingers
+# EEG-Classification-fingers
